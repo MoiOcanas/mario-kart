@@ -6,7 +6,7 @@ Animation about Mario Kart using only HTML and CSS with transitions.
 
 ## Installation
 
-Just clone the repository and open the HTML file. Also you can using a live server.
+Just clone the repository and open the HTML file. You can using a live server too.
 
 ```bash
 git clone https://github.com/MoiOcanas/mario-kart.git
